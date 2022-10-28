@@ -23,7 +23,7 @@ const Home = () => {
                 <div className="body mt-10">
                     <ul>  
                         <li className="mb-6"> 
-                            <a href='https://twitter.com/o_luwatoyin' className='links'>
+                            <a href='https://twitter.com/o_luwatoyin' id='btn__twitter' className='links'>
                                 <button>
                                 Twitter Link
                                 </button>
